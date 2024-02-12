@@ -1,0 +1,22 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 12px;
+  padding-bottom: 10%;
+}
+.emojisContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  flex-wrap: wrap;
+  margin-top: 20%;
+}
